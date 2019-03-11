@@ -1,6 +1,6 @@
 ## Hi There! Welcome To My Profile
 
-**Personal Information**
+# Personal Information
 
 Alexander Yeo<br/>
 Student number s3795259<br/>
