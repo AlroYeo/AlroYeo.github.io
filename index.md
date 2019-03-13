@@ -63,12 +63,15 @@ If I was forming a team to complete group work, I would look for individuals to 
 # Project Idea
 
 **Overview**
+
 I have an idea for mobile application that would essentially be a visual labeller/translator. This would allow you the user to easily translate something simply by photographing the object. In addition to receiving a translation in your chosen language, you would also receive some suggested questions or phrases associated with the object for you to use if you choose to do so. Furthermore, you could use also use this app like a portable visitor information centre by taking a photo of a building/landmark and receiving information about the subject of interest and what you can do there. 
 
 **Motivation**
+
 Having travelled internationally I know that it can be daunting not speaking the language of the locals. Similarly it can be a struggle getting around, knowing where you are and where it is that you want to go. Sometimes, when travelling to a destination, you’re not sure if you’re at the right place. And even if you are, what are all the things that you can actually do there? This isn’t a comprehensive ‘remove the need to speak’ translator, I believe those apps are not quite accurate enough yet. This will merely translate objects or items essential to the traveller to know the name of in order to help them. It will administer correct, and factual information about landmarks, venues etc. and inform the traveller of what is on offer at these places. 
 
 **Description**
+
 This product will, at its core, label an object, in real time, within an image of your choosing, and then translate it into your chosen language. In addition to this it will also provide you with the native pronunciation and spelling of the of word/s. Some commonly used questions/phrases/answers associated with the item will also be available to you if you would like use them. For example if I was to take a photo of a train, I would receive a translation of the word from one language to another and then some suggested dialogue I might find helpful, like “Excuse me, when is the next train coming?” Or “Where is ______ train station?”
 In addition to this function, the app will also display information about applicable landmarks or buildings activated simply by bringing the point of interest into view with your camera. This information would include such things as the name and history of the landmark/building, hours of operation if applicable, things you can do there, and pricing if applicable. The functioning of this app would work much like a normal smart phone camera whereby the user can use the focus function to zero in the point of interest they choose. Once they do this, the app will recognise the object and label it in 2 languages, (native with pronunciation assistance, and a second of your choosing i.e English). Once an object has been labelled, a drop down table with options labeled ‘Questions’, ‘Phrases’, ‘Other’ will appear giving the user access commonly associated dialogue relevant to the object. 
 
@@ -77,9 +80,11 @@ In addition to this function, the app will also display information about applic
 Software would need to be written but beyond that I have no knowledge of any of the specifics. For some of the landmark information features maybe a QR code would be needed. This would allow users to scan the code to access the information they want. I know that macOS allows users to search their photos using keywords, so I suppose some similar technology to this would be required. Perhaps a database of images would need to be compiled and the software would have to be able to recognise and label these images and then match theses images with the users images when they are using the app. 
 
 **Skills Required**
+
 I think software for this product could be written fairly easily by skilled people. One would need to have extensive knowledge of, and skills in programming and software development. Intuitive design would be the key to making this app successful so having a good user interface design would be essential. To make this app successful the developer would need to find a way to make the camera of a users phone work in conjunction with the app. I don’t think this idea is too outlandish, and I believe the creation of this app would be fairly realistic. 
 
 **Outcome**
+
 This app would allow users to successfully navigate foreign countries by breaking down the language barrier. This app, unlike dedicated translators however, will focus on translating only objects and displaying important information for the user rather than infinite amounts of dialogue which can be inaccurately/literally translated. Rather than carrying around awkward speech translation devices and poking them in peoples faces, you can use your mobile to do the translating and use your own voice to engage and connect with others if required. Basically, this isn’t a crutch. This is an assistant, because engaging with others and connecting with people form other cultures is part of what makes travelling so special.
 
 [Link](url) and ![Image]()
