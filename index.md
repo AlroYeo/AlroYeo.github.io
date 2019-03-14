@@ -30,6 +30,8 @@ I hope to gain a fundamental understanding what Information Technology is. I wan
 
 https://www.indeed.com/viewjob?jk=7f0001f4b8d9c115&tk=1d5073ilb1s7i003&from=serp&vjs=3
 
+<img src=>
+
 This is an advertisement for a software development position in the medical industry. It is appealing to me because it seems like a position that requires have both creative thinking and problem solving skills. It also appeals to me because it is a job that is in the medical sector. I would like to make a contribution to the medical field because I want to help improve peoples quality of life.
 
 Candidates need to have a post-graduate degree (masters, Ph.D) in computer science or computer engineering as well as at least 5 years of experience in software development. 
@@ -87,4 +89,4 @@ I think software for this product could be written fairly easily by skilled peop
 
 This app would allow users to successfully navigate foreign countries by breaking down the language barrier. This app, unlike dedicated translators however, will focus on translating only objects and displaying important information for the user rather than infinite amounts of dialogue which can be inaccurately/literally translated. Rather than carrying around awkward speech translation devices and poking them in peoples faces, you can use your mobile to do the translating and use your own voice to engage and connect with others if required. Basically, this isn’t a crutch. This is an assistant, because engaging with others and connecting with people form other cultures is part of what makes travelling so special.
 
-[Link](url) and ![Image]()
+
