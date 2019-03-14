@@ -30,7 +30,7 @@ I hope to gain a fundamental understanding what Information Technology is. I wan
 
 https://www.indeed.com/viewjob?jk=7f0001f4b8d9c115&tk=1d5073ilb1s7i003&from=serp&vjs=3
 
-<img src=>
+![ideal-job](ideal-job.png)>
 
 This is an advertisement for a software development position in the medical industry. It is appealing to me because it seems like a position that requires have both creative thinking and problem solving skills. It also appeals to me because it is a job that is in the medical sector. I would like to make a contribution to the medical field because I want to help improve peoples quality of life.
 
