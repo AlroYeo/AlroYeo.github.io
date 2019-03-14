@@ -8,7 +8,7 @@ Email Address: s3795259@student.rmit.edu.au
 
 My name is Alex and I was born and raised in Australia. Upon completing school I’ve tried my hand at a number of things, most notably completing a Certificate III in Baking and pursing a career in Aquaculture. I’m also an avid home recording enthusiast, multi-instrumentalist and dog lover! 
 
-
+<img src= >
 
 # Interest in IT
 
