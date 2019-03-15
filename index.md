@@ -27,8 +27,8 @@ I hope to gain a fundamental understanding what Information Technology is. I wan
 # Ideal Job
 
 **Developer Technology Engineer – Medical**
-http://www.example.com
-https://www.indeed.com/viewjob?jk=7f0001f4b8d9c115&tk=1d5073ilb1s7i003&from=serp&vjs=3
+
+<https://www.indeed.com/viewjob?jk=7f0001f4b8d9c115&tk=1d5073ilb1s7i003&from=serp&vjs=3>
 
 ![ideal-job](ideal-job.png)
 
@@ -44,15 +44,15 @@ I plan to complete my Bachelor in Information Technology, choosing elective subj
 
 **Personality Test**
 
-https://www.16personalities.com/infj-personality
+<https://www.16personalities.com/infj-personality>
 
 **Learning Style Test**
 
-http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=4&V=10&T=6
+<http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=4&V=10&T=6>
 
 **Career Aptitude Test**
 
-https://www.123test.com/career-test/id=VL2PEIYXWCDJ&version=
+<https://www.123test.com/career-test/id=VL2PEIYXWCDJ&version=>
 
 These tests were quite interesting. I think I certainly gained a deeper understanding of who I am, how I learn and what kinds of careers I am best suited for. I don’t hold a lot of personality tests in high regard, but they are owed a certain amount of merit. I feel that I gained the most benefit from the learning style test as I was able to pickup some great tips on what to do if you’re visual learner.  
 
